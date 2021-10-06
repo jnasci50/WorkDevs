@@ -3,21 +3,37 @@ import java.util.Scanner;
 public class CadastroUserPassword {
 
             public static void main(String[] args) {
-            Scanner InUser = new Scanner(System.in);
-            System.out.println("Cadastre Seu usuario");
-            String UsuarioCadastrado = InUser.nextLine();
+
+                Scanner InUser = new Scanner(System.in);
+
+                System.out.println("Cadastre Seu usuario");
+
+                String UsuarioCadastrado = InUser.nextLine();
+
             System.out.println("Seu Usuário: " + UsuarioCadastrado + ". Foi Cadastrado com sucesso!");
+
             System.out.println("Cadastre Seu Senha");
+
             Scanner InSenha = new Scanner(System.in);
+
             String SenhaCadastrada = InSenha.nextLine();
+
             System.out.println("Seu Senha " + SenhaCadastrada + ":Cadastrada com sucesso!");
+
             System.out.println("Por favor Confirme Se Seu Usuario E Senha Estão Válidos");
+
             Scanner ValidUser = new Scanner(System.in);
+
             System.out.println("Digite o seu usuário Cadastrado!");
+
             String ConfirmUser = ValidUser.nextLine();
+
             Scanner ValidSenha = new Scanner(System.in);
+
             System.out.println("Digite a seu Senha Cadastrada!");
+
             String ConfirmSenha = ValidSenha.nextLine();
+
             if (UsuarioCadastrado.equals(ConfirmUser) && SenhaCadastrada.equals(ConfirmSenha)) {
                 System.out.println("Usuario e Senha Válidos");
             } else {
