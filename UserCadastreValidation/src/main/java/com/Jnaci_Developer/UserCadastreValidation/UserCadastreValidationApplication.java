@@ -10,4 +10,6 @@ public class UserCadastreValidationApplication {
 		SpringApplication.run(UserCadastreValidationApplication.class, args);
 	}
 
+
+
 }
