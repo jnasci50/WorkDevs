@@ -1,6 +1,0 @@
-Server=localhost\SQLEXPRESS;Database=master;Trusted_Connection=True;
-
-Comandos Basicos SQL 
-
-Select GetDate(): Retorna data e hora
-Use Master: Seleciona o banco principal (Master) 
