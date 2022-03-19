@@ -21,7 +21,7 @@ Tive a oportunidade de trabalhar com automação industrial, robótica e partici
 
 
 ### Soft Skills:
-Como profissional, desenvolvi muita disciplina, persistência, responsabilidade para entregar resultados, foco, ânsia para inovar, criar melhorias e ter um bom relacionamento com as pessoas ao meu redor, trabalhar em equipe, sempre buscando a excelência do time e da empresa e nunca fazendo o mais do mesmo.<br>
+Como profissional, desenvolvi muita disciplina, persistência, responsabilidade para entregar resultados, foco, ânsia para inovar, criar melhorias e ter um bom relacionamento com as pessoas ao meu redor, trabalhar em equipe, sempre buscando a excelência do time.<br>
 
 <div>
 <a href="https://github.com/jnasci50/">
