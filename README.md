@@ -1,10 +1,10 @@
 
-### Olá, eu sou Jairo Nascimento! 😁 
+## Olá, eu sou Jairo Nascimento!  
 
 - 👨🏼‍💻 Sou Desenvolvedor de Sistemas Júnior. <br>
-- 🎯 Estudante de Engenharia de Software e Desenvolvedor Back-end Java <br>
+- 🎯 Estudante de Engenharia de Software e Desenvolvedor Back-end Java em ascenção! <br>
 - 📚 Iniciei esta jornada em Abril/2021. <br>
-- ⚡ Curiosidade: Trabalho como Técnico de Automação industrial por mais de 12 anos. <br>
+- ⚡ Curiosidade: Trabalho como Técnico de Automação industrial por mais de 12 anos e trabalhei como desenhista projetista por 3 anos. <br>
 Tive a oportunidade de trabalhar com automação industrial, robótica e participei de projetos nas indústrias pelas quais eu passei, desde o planejamento, execução, análise/testes e ações de melhoría.
 - 🎺 Hobbies: Ler, caminhar, projetos eletrônicos (sistemas embarcados com arduino).
 
@@ -24,11 +24,10 @@ Tive a oportunidade de trabalhar com automação industrial, robótica e partici
 Como profissional, desenvolvi muita disciplina, persistência, responsabilidade para entregar resultados, foco, ânsia para inovar, criar melhorias e ter um bom relacionamento com as pessoas ao meu redor, trabalhar em equipe, sempre buscando a excelência do time e da empresa e nunca fazendo o mais do mesmo.<br>
 
 <div>
-<a href="https://github.com/jnasci50/jnasci50">
+<a href="https://github.com/jnasci50">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnasci50&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jnasci50&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
   ![Snake animation](https://github.com/eliezermoraesss/eliezermoraesss/blob/output/github-contribution-grid-snake.svg) <br> <br>
   
-
