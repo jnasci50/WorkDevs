@@ -25,8 +25,8 @@ Como profissional, desenvolvi muita disciplina, persistência, responsabilidade 
 
 <div>
 <a href="https://github.com/jnasci50/">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jairo Nascimento&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jairo Nascimento&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jnasci50&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jnasci50&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
   ![Snake animation](https://github.com/eliezermoraesss/eliezermoraesss/blob/output/github-contribution-grid-snake.svg) <br> <br>
