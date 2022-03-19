@@ -4,7 +4,7 @@
 - 👨🏼‍💻 Sou Desenvolvedor de Sistemas Júnior. <br>
 - 🎯 Estudante de Engenharia de Software e Desenvolvedor Back-end Java <br>
 - 📚 Iniciei esta jornada em Abril/2021. <br>
-- ⚡ Curiosidade: Trabalho como Técnico de Automação industrial por mais de 12 anos e trabalhei como desenhista projetista por 3 anos. <br>
+- ⚡ Curiosidade: Trabalho como Técnico de Automação industrial por mais de 12 anos. <br>
 Tive a oportunidade de trabalhar com automação industrial, robótica e participei de projetos nas indústrias pelas quais eu passei, desde o planejamento, execução, análise/testes e ações de melhoría.
 - 🎺 Hobbies: Ler, caminhar, projetos eletrônicos (sistemas embarcados com arduino).
 
